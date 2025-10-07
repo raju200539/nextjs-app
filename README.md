@@ -103,9 +103,9 @@ If you are using a VM or EC2 instance using the following command to prot-forwrd
 kubectl port-forward service/nextjs-service 3000:3000
 ```
 Now you can access the app at:
-`
+```
 http://<ec2-public-ip>:3000
-`
+```
 ---
 
 ## 📂 Project Structure
