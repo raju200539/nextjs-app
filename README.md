@@ -111,7 +111,7 @@ http://<ec2-public-ip>:3000
 ## 📂 Project Structure
 
 ```
-nextjs-docker-k8s-app/
+nextjs-app/
 ├── .github/
 │   └── workflows/docker-build.yml
 ├── k8s/
