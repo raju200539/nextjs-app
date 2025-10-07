@@ -123,5 +123,5 @@ nextjs-docker-k8s-app/
 * GHCR handles image storage securely with GitHub Actions automation.
 
 
-* Repository URL: `https://github.com/<your-username>/nextjs-docker-k8s-app`
-* GHCR Image URL: `ghcr.io/<your-username>/nextjs-docker-k8s-app:latest`
+* Repository URL: `https://github.com/raju200539/nextjs-app`
+* GHCR Image URL: `ghcr.io/raju200539/nextjs-app:latest`
