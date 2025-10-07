@@ -97,7 +97,7 @@ minikube service nextjs-service
 
 This command opens your browser at the correct URL for the app running inside Minikube.
 
-If you are using a VM or EC2 instance using the following command to prot-forwrd and access the app:
+If you are using a VM or EC2 instance using the following command to port-forwrd and access the app in your local machine:
 
 ```bash
 kubectl port-forward service/nextjs-service 3000:3000
