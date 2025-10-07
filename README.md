@@ -45,7 +45,7 @@ docker build -t nextjs-app .
 ### 2. Run the Container
 
 ```bash
-docker run -p 3000:3000 nextjs-app
+docker run -d -p 3000:3000 nextjs-app
 ```
 
 Visit [http://localhost:3000](http://localhost:3000) to see it running.
