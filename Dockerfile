@@ -10,7 +10,7 @@ COPY . .
 
 RUN npm run build
 
-FROM node:18-alpine AS run
+FROM gcr.io/distroless/nodejs20 AS run
 
 WORKDIR /app
 
